@@ -19,10 +19,14 @@ https://github.com/user-attachments/assets/43b74baa-a36e-4129-8466-e702b979669e
 ---
 Clean
 [Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/1_clean.wav)
+<audio src="/MetricGAN+/1_clean.wav"></audio>
 
 Mix_noise
 [Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/1_mix_noise.wav)
+<audio src="/MetricGAN+/1_mix_noise.wav"></audio>
 
 Denoise
 [Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/1_denoise.wav)
+<audio src="/MetricGAN+/1_denoise.wav"></audio>
+
 
