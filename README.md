@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/208849f5-e1e2-4f49-bb22-3eaac521d3cc
 https://github.com/user-attachments/assets/43b74baa-a36e-4129-8466-e702b979669e
 
 Clean
-
+[点击下载/播放音频](https://anonymoususers186.github.io/AccCall/MetricGAN+/1_clean.wav)
 Mix_noise
 
 Denoise
