@@ -16,6 +16,10 @@ https://github.com/user-attachments/assets/208849f5-e1e2-4f49-bb22-3eaac521d3cc
 
 https://github.com/user-attachments/assets/43b74baa-a36e-4129-8466-e702b979669e
 
+Clean
 
+Mix_noise
 
-<audio controls src="./MetricGAN+/enhanced.wav"></audio>
+Denoise
+<audio src="/MetricGAN+/enhanced.wav"></audio>
+
