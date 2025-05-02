@@ -21,8 +21,10 @@ https://github.com/user-attachments/assets/52036bb9-651e-4aa7-bba4-9608c9e66c58
 https://github.com/user-attachments/assets/77c9adb2-3a28-4597-8f3c-f686cc77fcfc
 
 
-
 ---
+
+## We also use the pre-trained single-modality speech model ​MetricGAN+​ to evaluate some of our samples, and the test results are as follows:
+
 1_Clean
 [Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/1_clean.wav)
 <audio src="/MetricGAN+/1_clean.wav"></audio>
