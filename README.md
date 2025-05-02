@@ -17,16 +17,60 @@ https://github.com/user-attachments/assets/208849f5-e1e2-4f49-bb22-3eaac521d3cc
 https://github.com/user-attachments/assets/43b74baa-a36e-4129-8466-e702b979669e
 
 ---
-Clean
+1_Clean
 [Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/1_clean.wav)
 <audio src="/MetricGAN+/1_clean.wav"></audio>
 
-Mix_noise
+1_Mix_noise
 [Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/1_mix_noise.wav)
 <audio src="/MetricGAN+/1_mix_noise.wav"></audio>
 
-Denoise
+1_Denoise
 [Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/1_denoise.wav)
 <audio src="/MetricGAN+/1_denoise.wav"></audio>
+
+---
+2_Clean
+[Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/2_clean.wav)
+<audio src="/MetricGAN+/1_clean.wav"></audio>
+
+2_Mix_noise
+[Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/2_mix_noise.wav)
+<audio src="/MetricGAN+/1_mix_noise.wav"></audio>
+
+2_Denoise
+[Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/2_denoise.wav)
+<audio src="/MetricGAN+/1_denoise.wav"></audio>
+
+---
+
+3_Clean
+[Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/3_clean.wav)
+<audio src="/MetricGAN+/1_clean.wav"></audio>
+
+3_Mix_noise
+[Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/3_mix_noise.wav)
+<audio src="/MetricGAN+/1_mix_noise.wav"></audio>
+
+3_Denoise
+[Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/3_denoise.wav)
+<audio src="/MetricGAN+/1_denoise.wav"></audio>
+
+---
+4_Clean
+[Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/4_clean.wav)
+<audio src="/MetricGAN+/1_clean.wav"></audio>
+
+4_Mix_noise
+[Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/4_mix_noise.wav)
+<audio src="/MetricGAN+/1_mix_noise.wav"></audio>
+
+4_Denoise
+[Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/4_denoise.wav)
+<audio src="/MetricGAN+/1_denoise.wav"></audio>
+
+
+
+
 
 
