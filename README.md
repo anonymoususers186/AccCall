@@ -1,5 +1,5 @@
 # AccCall
-AccCall: Enhancing Real-Time Phone Call Quality with Smartphone's Built-in Accelerometer
+## AccCall: Enhancing Real-Time Phone Call Quality with Smartphone's Built-in Accelerometer
 
 ---
 
@@ -22,8 +22,8 @@ https://github.com/user-attachments/assets/77c9adb2-3a28-4597-8f3c-f686cc77fcfc
 
 
 ---
-
-## We also use the pre-trained single-modality speech model ​MetricGAN+​ to evaluate some of our samples, and the test results are as follows:
+---
+## We also ​use​ the pre-trained single-modality speech model ​MetricGAN+​​ to evaluate some of our samples. ​Even though the model has been trained on a large dataset, the test performance remains poor, and the test results are as follows:
 
 1_Clean
 [Click to download/play audio](https://anonymoususers186.github.io/AccCall/MetricGAN+/1_clean.wav)
